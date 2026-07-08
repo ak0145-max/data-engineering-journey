@@ -1,0 +1,8 @@
+pandas==2.2.3
+numpy
+pyarrow==17.0.0
+openpyxl
+ipykernel
+scikit-learn
+matplotlib
+seaborn
